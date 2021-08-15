@@ -66,3 +66,7 @@
 210812
  - 2631: line up
 
+210815
+ - 1012: organic cabbage
+ - 1120: string
+ - 17609: palindrome
