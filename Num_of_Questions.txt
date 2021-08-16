@@ -70,3 +70,7 @@
  - 1012: organic cabbage
  - 1120: string
  - 17609: palindrome
+ 
+ 210816
+  - Presentation: Dijkstra & Prim
+  - 4485: Zelda
