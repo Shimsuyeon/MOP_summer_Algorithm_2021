@@ -75,6 +75,8 @@
   - Presentation: Dijkstra & Prim
   - 4485: Zelda
   
+  210818
+   - 1046: new comer(use sort)
   
   210819
    - 1013: 
