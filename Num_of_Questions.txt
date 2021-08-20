@@ -76,7 +76,8 @@
   - 4485: Zelda
   
   210818
-   - 1046: new comer(use sort)
+   - 1046: new comer(Use Sort)
   
   210819
    - 1013: contact(Regular Expression Problem)
+   - 5430: AC(Reverse, Delete, array)
