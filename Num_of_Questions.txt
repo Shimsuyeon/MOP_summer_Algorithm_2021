@@ -81,3 +81,9 @@
   210819
    - 1013: contact(Regular Expression Problem)
    - 5430: AC(Reverse, Delete, array)
+
+  210822
+   - KAKAO 2020 BLIND CODING TEST
+     - 01. string
+  210823
+   - 11279: max heap(use heapq)
